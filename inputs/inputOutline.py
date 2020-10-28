@@ -17,10 +17,12 @@ userResponse = input ("What is your favorite animal?")
 #called name.
 
 text_to_user = "What is your name?"
-
+userResponse = ("name")
 
 #3) Get input from the user to the question "What is your age?" and store their
 #answer in a variable called age. Convert age from a string variable to a int
 #(integer) variable.
 
-
+text_to_user = "What is your age"
+ 
+var1 = "age"
