@@ -69,6 +69,6 @@ print(x)
 
 #12) Make any type of operation with a common SYNTAX error
 
-x 2+3
+x = 2 + 3
 print(x)
 
