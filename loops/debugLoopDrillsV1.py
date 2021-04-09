@@ -49,13 +49,13 @@ passing and or not. If the student is passing, it prints "[NAME] is passing." If
 the student is failing, it prints "[NAME] is failing."
 '''
 def checkStudents(studentList):
-
-    while(x == len(studentList[0])
+    studentList = "Name"
+    while("Name" == len(studentList[0])
         if(studentList[1][x] == True):
             print(studentList[0][x] + " is passing.")
         else:
             print(studentList[0][x] + " is failing.")
-        x = 0
+        x = True
     print("DONE")
     return 
 
@@ -67,12 +67,12 @@ This function takes a list of grades and then prints each of the grades out with
 a for loop.
 '''
 def printGrades(studentList):
-grade = 100   
-    for x in grade:
+grades = 100  
+    for x in grades:
         print(x)
     print("DONE")
     return 
 
 listOfStudents = [66, 24, 12, 45, 100, 100, 100]
-print Grades(listOfStudents)
+print(Grades(listOfStudents)
         
